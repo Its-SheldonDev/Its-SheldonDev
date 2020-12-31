@@ -22,6 +22,4 @@ Social Networks :
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marius-bzcn&show_icons=true&bg_color=00FFFF,0080FF,FF00FF&text_color=00FFFF&title_color=00FF00&icon_color=00FF00&count_private=true&include_all_commits=true" alt="stats" />
 </a>
 
-<a href="https://github.com/Marius-bzcn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marius-bzcn&layout=compact&text_color=FFFF00&title_color=00FF00&bg_color=3200FF,6400FF,9600FF,C800FF,FA00FF" alt="stats" />
-</a>
+
