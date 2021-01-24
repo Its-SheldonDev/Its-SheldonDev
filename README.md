@@ -1,4 +1,8 @@
 ### Marius.bzcn
+
+[![Im listening](https://spotify-github-profile.vercel.app/api/view?uid=mariusmaden&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+
+
 Social Networks :
 
 <a href="https://discord.gg/6cmjhBXqNE">
@@ -10,6 +14,7 @@ Social Networks :
 <br>
 <br>
 
+
 **Languages :**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -18,7 +23,6 @@ Social Networks :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-[![Im listening](https://spotify-github-profile.vercel.app/api/view?uid=mariusmaden&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
 <a href="https://github.com/Marius-bzcn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marius-bzcn&show_icons=true&bg_color=00FFFF,0080FF,FF00FF&text_color=00FFFF&title_color=00FF00&icon_color=00FF00&count_private=true&include_all_commits=true" alt="stats" />
