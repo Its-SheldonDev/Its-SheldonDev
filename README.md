@@ -22,4 +22,6 @@ Social Networks :
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marius-bzcn&show_icons=true&bg_color=00FFFF,0080FF,FF00FF&text_color=00FFFF&title_color=00FF00&icon_color=00FF00&count_private=true&include_all_commits=true" alt="stats" />
 </a>
 
+[![Im listening](https://spotify-github-profile.vercel.app/api/view?uid=mariusmaden&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
