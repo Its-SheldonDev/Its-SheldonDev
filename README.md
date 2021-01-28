@@ -1,4 +1,6 @@
-### Marius.bzcn
+<h1 align="center">Hi 👋, I'm Marius.bzcn</h1>
+<h3 align="center">I am a French backend developer and learning the fontend</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=marius-bzcn&label=Profile%20views&color=0e75b6&style=flat" alt="marius-bzcn" /> </p>
 
 [![Im listening](https://spotify-github-profile.vercel.app/api/view?uid=mariusmaden&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
@@ -8,16 +10,10 @@
 
 - 📫 Mail **marius.bzcn@gmail.com**
 
-Social Networks :
-
-<a href="https://discord.gg/6cmjhBXqNE">
-  <code><img alt="Discord" height="20" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"></code>
-</a>
-<a href="https://www.instagram.com/Marius.bzcn/">
-  <code><img alt="Instagram" height="20" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"></code>
-</a>
-<br>
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/marius.bzcn" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Color-Logo.wine.svg" alt="marius.bzcn" height="30" width="40" /></a>
+<a href="https://discord.gg/Qaxqs9VyfJ" target="blank"><img align="center" src="http://marius-bzcn.ga/images/discord-logo.svg" alt="swXQBtwbKn" height="30" width="40" /></a>
 
 
 **Languages :**
