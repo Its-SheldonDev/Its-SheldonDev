@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/marius.bzcn" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Color-Logo.wine.svg" alt="marius.bzcn" height="30" width="40" /></a>
-<a href="https://discord.gg/Qaxqs9VyfJ" target="blank"><img align="center" src="http://marius-bzcn.ga/images/d.svg" alt="swXQBtwbKn" height="30" width="40" /></a>
+<a href="https://discord.gg/Qaxqs9VyfJ" target="blank"><img align="center" src="http://marius-bzcn.ga/discord.svg" alt="swXQBtwbKn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
