@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marius.bzcn</h1>
+<h1 align="center">Hi 👋, I'm $heldon</h1>
 <h3 align="center">I am a French backend developer and learning the fontend</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marius-bzcn&label=Profile%20views&color=0e75b6&style=flat" alt="marius-bzcn" /> </p>
 
@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Minory](https://github.com/marius-bzcn/minory)
 
-- 💬 Discord **https://discord.gg/Qaxqs9VyfJ**
+- 💬 Discord **https://discord.gg/FjmbywaesV**
 
-- 📫 Mail **marius.bzcn@gmail.com**
+- 📫 Mail **sheldon.java@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
