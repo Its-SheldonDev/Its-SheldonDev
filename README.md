@@ -2,6 +2,18 @@
 <h3 align="center">I am a French backend developer and learning the fontend</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marius-bzcn&label=Profile%20views&color=0e75b6&style=flat" alt="marius-bzcn" /> </p>
 
+<p align="center">
+  <b>🖤 Follow me here:</b><br>
+  <a href="https://discord.gg/aMs5BHuyaU">Discord</a> |
+  <a href="https://www.youtube.com/channel/UC09GPm24_rdeOXa5KOmhDnw">YouTube</a> |
+  <a href="https://twitter.com/its_vichy">Twitter</a> |
+  <a href="https://github.com/Its-Vichy">Github</a>
+  <br><br>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/939465072079337699/A44A2D24BB987267F26C56440F51A0B468481222/">
+  <br><br>
+  <img src="https://discord.c99.nl/widget/theme-3/836603225515360329.png">
+</p>
+
 [![Im listening](https://spotify-github-profile.vercel.app/api/view?uid=mariusmaden&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
 - 🔭 I’m currently working on [Minory](https://github.com/marius-bzcn/minory)
