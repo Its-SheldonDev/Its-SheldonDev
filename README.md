@@ -10,5 +10,5 @@
   <br><br>
   <img src="https://cdn.discordapp.com/attachments/836678459505246260/844723368489123870/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f383133363833303031.gif">
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-2/884335452851679292.png">
+  <img src="https://discord.c99.nl/widget/theme-2/953677511357779978.png">
 </p>
