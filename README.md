@@ -1,4 +1,5 @@
 <p align="center"> <img src="https://svg-banners.vercel.app/api?type=origin&text1=I%20im%20$heldon%E2%9C%A8%EF%B8%8F" alt="$heldon" /> </p>
+<img src="https://discord.c99.nl/widget/theme-3/999325599740997705.png">
 <h3 align="center">I am a French backend developer and learning the fontend</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marius-bzcn&label=Profile%20views&color=0e75b6&style=flat" alt="$heldon" /> </p>
 
@@ -9,5 +10,4 @@
   <a href="https://sheldon-dev.fr">Portfolio</a>
   <br><br>
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-3/999325599740997705.png">
 </p>
