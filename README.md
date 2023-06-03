@@ -2,7 +2,7 @@
 
 <p align="center">★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★</p>
 
-<p align="center"> <img src="https://svg-banners.vercel.app/api?type=origin&text1=js,;python,;php,;html-css,;java,;perl,;elixir,;eris,;go,;react.js,;z-sharp;batched,;vue.js,;sqlite3,;sql,;ruby;.net;shell" alt="$heldon" /> </p>
+<p align="center"> <img src="https://svg-banners.vercel.app/api?type=origin&text1=JS Python Java Go React.js Batched Vue.js Sqlite3 SQL Ruby CPP" alt="$heldon" /> </p>
 
 <p align="center">★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★</p>
 
